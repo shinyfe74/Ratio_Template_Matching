@@ -23,8 +23,8 @@
 - #'ratio_template_matching' will return 'Matching Result = [crop_ratio, accruray, template x, template y, template width, template height]'
 - mc.ratio_template_matching(original_src_img, original_template, result_path)
 
-original_src_img & original_template = Color (ex. original_template = cv2.imread('template.jpg'))
-result_path :  default = None/  if you want save result, add result_path (ex. result_path = os.path.join("./img/result.jpg"))
+- original_src_img & original_template = Color (ex. original_template = cv2.imread('template.jpg'))
+- result_path :  default = None/  if you want save result, add result_path (ex. result_path = os.path.join("./img/result.jpg"))
 
 - please show 'example.py'.
 
