@@ -31,11 +31,11 @@ result_path :  default = None/  if you want save result, add result_path (ex. re
 
 
 # Example result
-*Template
+*Template (480 x 640)
 
 ![M053_87_56](https://user-images.githubusercontent.com/80665546/125795008-5f2c0463-4ad1-49f5-be98-837faf81fdb2.jpg)
 
-*Source Image
+*Source Image (3000 x 4000)
 
 ![1](https://user-images.githubusercontent.com/80665546/125795709-813a65c7-916e-43c2-85e9-de05c14e3051.jpg)
 
