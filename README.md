@@ -54,6 +54,6 @@ Template height: 1728
 
 ![image](https://user-images.githubusercontent.com/80665546/125797999-69adaefb-80b2-4334-8a13-44dd490c3d07.png)
 
-Plz someone tell me how to resize above images.
-Readme에서 이미지 크기 조절 어떻게 하는지 알려주실분?
+*Plz someone tell me how to resize above images.
+*Readme에서 이미지 크기 조절 어떻게 하는지 알려주실분?
 
