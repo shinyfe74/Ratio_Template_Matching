@@ -5,16 +5,13 @@
 * This code will stop searching when accuracy is over 0.95 or can't find better ratio than before.
 * Compare ratios up to 5 decimal. (ex. 1.XXXXX).
 
-* I'm not an coding expert. But I believe you can easiliy understand this code.
-
 
 * 크기 다른 이미지 매칭 알고리즘이 없는것 같아 노가다 하는 방식으로 만들었습니다.
 * 템플릿 이미지의 확대 축소 비율을 찾아서 비교하는 방법입니다.
 * openCV에서 템플릿 매칭중 TM_CCOEFF_NORMED 를 이용했습니다.
 * 비율은 최대 소숫점 다섯째 자리까지 비교합니다.
 * 정확도?가 0.95 이상이거나, 이전 소숫점 단계에서 비교한 비율과 차이가 없으면 멈춥니다.
-* 코딩을 전문적으로 배운적이 없어서 잘 모르겠지만 대부분 잘 찾는편입니다.
-* 속도를 빠르게 하거나 코드를 사용하기 좋게 만드는 방법이 있으면 알려주세요.
+* 너무 작은 영상이라 해상도가 떨어지지만 않으면 대부분 잘 찾는편입니다.
 
 
 # How To Use
@@ -53,6 +50,4 @@ Template height: 1728
 
 ![image](https://user-images.githubusercontent.com/80665546/125797999-69adaefb-80b2-4334-8a13-44dd490c3d07.png)
 
-* Plz someone tell me how to resize above images.
-* Readme에서 이미지 크기 조절 어떻게 하는지 알려주실분?
 
